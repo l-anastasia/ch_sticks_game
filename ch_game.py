@@ -13,8 +13,8 @@ def action(pull, name):
             print(f'{name} won')
             break
         return pull
-    
-    
+
+print("We start new game")
 player1_name = input('Please enter the name of the first player: ')
 player2_name = input('Please enter the name of the second player: ')
 
